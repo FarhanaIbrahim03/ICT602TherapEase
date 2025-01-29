@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830303403279",
+    "project_id": "therapease-3e337",
+    "storage_bucket": "therapease-3e337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830303403279:android:583ceed10fed0b4679527a",
+        "android_client_info": {
+          "package_name": "com.example.therapease2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46TNSNPfYf2Q8ahWfunHP8xt2c3OxcvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
